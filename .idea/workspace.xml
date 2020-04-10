@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97147e67-17ac-45e2-82e2-825e06f79a2b" name="Default Changelist" comment="" />
+    <list default="true" id="97147e67-17ac-45e2-82e2-825e06f79a2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +17,9 @@
       <executable />
     </execution>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="one_page" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -19,6 +27,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aE33OdsWrymSdRCcr4l4mCmdDt" />
   <component name="ProjectViewState">
@@ -29,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
@@ -44,6 +56,8 @@
       <updated>1586286726480</updated>
       <workItem from="1586286729574" duration="15916000" />
       <workItem from="1586324892364" duration="6886000" />
+      <workItem from="1586531582849" duration="11029000" />
+      <workItem from="1586554061448" duration="4986000" />
     </task>
     <servers />
   </component>
@@ -51,9 +65,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="526" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1586324892308">
+    <state x="561" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586558285417">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="561" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1538.900@62.0.1538.900" timestamp="1586558285417" />
+    <state x="526" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1586554070172">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state x="526" y="272" key="com.intellij.ide.util.TipDialog/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1586324892308" />
+    <state x="526" y="272" key="com.intellij.ide.util.TipDialog/62.0.1538.900@62.0.1538.900" timestamp="1586554070172" />
   </component>
 </project>
