@@ -92,10 +92,24 @@ h2{
 .skills{
     background-color: #f8f9f9;
     padding: 165px 0;
+    position: relative;
+    z-index: 0;
+    display: block;
 }
 .wrapper {
     max-width: 1156px;
     margin: auto;
+    z-index: 1;
+}
+.skills:after{
+    content: "";
+    display: block;
+    background-color: #e9e9e9;
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
 }
 .skills h2{
     color: #171717;
@@ -148,22 +162,23 @@ h2{
     justify-content: space-between;
 }
 .box{
-    max-width: 233px;
+    width: 233px;
     color: white;
     display: flex;
-    flex-direction: column;
-    align-items: flex-start;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
 }
-.box p{
+.all{
+    display: flex;
+    flex-direction: column;
+    margin-left: 26px;
+}
+.box p {
     text-transform: uppercase;
     font-size: 12px;
-    align-self: flex-end;
 }
 .box h4{
     font-size: 18px;
-    align-self: flex-end;
 }
 .chess{
     display: flex;
