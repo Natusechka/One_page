@@ -41,7 +41,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Natalia\Desktop\one_page" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,6 +64,7 @@
       <workItem from="1586531582849" duration="11029000" />
       <workItem from="1586554061448" duration="4986000" />
       <workItem from="1586591058861" duration="7890000" />
+      <workItem from="1586742367568" duration="13331000" />
     </task>
     <servers />
   </component>
@@ -65,14 +72,15 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="561" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586558285417">
+    <state x="561" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586757803905">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
+    <state x="561" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1586757803905" />
     <state x="561" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1538.900@62.0.1538.900" timestamp="1586558285417" />
-    <state x="526" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1586591060517">
+    <state x="526" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1586742368785">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
-    <state x="526" y="272" key="com.intellij.ide.util.TipDialog/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1586324892308" />
+    <state x="526" y="272" key="com.intellij.ide.util.TipDialog/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1586742368785" />
     <state x="526" y="272" key="com.intellij.ide.util.TipDialog/62.0.1538.900@62.0.1538.900" timestamp="1586591060517" />
   </component>
 </project>
