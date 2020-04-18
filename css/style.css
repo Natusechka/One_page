@@ -69,7 +69,7 @@ header p{
     font-weight: 500;
 }
 header .button{
-    padding: 0 46px;
+    padding: 18px 46px;
 }
 .description{
     padding: 102px 0;
@@ -77,6 +77,9 @@ header .button{
     max-width: 576px;
     margin: auto;
     text-align: center;
+}
+.description img{
+    max-width: 100%;
 }
 h2{
     font-size:30px;
@@ -165,9 +168,10 @@ h2{
     justify-content: space-between;
 }
 .box{
-    width: 233px;
+    width: 25%;
     color: white;
     display: flex;
+    justify-content: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
 }
@@ -405,9 +409,27 @@ footer{
     display: flex;
     justify-content: space-between;
 }
+.piroll{
+    margin-right: 127px;
+}
+.contacts{
+    margin-left: 127px;
+    margin-right: 74px;
+}
+.black:nth-child(3){
+    margin-left: 74px;
+    margin-right: 29px;
+}
+.black:nth-child(4){
+    margin-left: 29px;
+    margin-right: 69px;
+}
+.black:nth-child(5){
+    margin-left: 69px;
+}
 .black h4{
     font-size: 18px ;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Monserrat', sans-serif;
     font-weight: 500;
     margin-bottom: 30px;
 }
@@ -417,8 +439,6 @@ footer{
     font-weight: 400;
 }
 .contacts p{
-    font-family: 'Work Sans', sans-serif;
-    font-weight: 400;
     font-family: 'Nunito Sans', sans-serif;
     font-weight: 400;
 }
@@ -431,5 +451,18 @@ footer{
 .list ul{
     list-style: none;
 }
-
-
+.owl-dots{
+    text-align: center;
+}
+.owl-dots .owl-dot span {
+    display: inline-block;
+    margin: 0 20px;
+    height: 10px;
+    width: 10px;
+    border-radius: 40%;
+    background-color: white;
+}
+.owl-dots .owl-dot.active span{
+    height: 15px;
+    width: 15px;
+}
