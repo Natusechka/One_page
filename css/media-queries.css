@@ -29,6 +29,50 @@
     .into{
         flex-wrap: wrap;
     }
+    .square{
+        width: 50%;
+    }
+    .player{
+        padding: 60px 15px;
+    }
+    .icons{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .inbox p{
+        margin-bottom: 30px;
+    }
+    .big_text{
+        padding: 60px 15px;
+    }
+    .all_images{
+    flex-wrap: wrap;
+        padding-left: 15px;
+        padding-right: 15px;
+        justify-content: space-around;
+    }
+    .all_images img{
+        margin: 15px;
+    }
+    .Project{
+        padding: 30px 15px;
+    }
+    footer{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .black{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .piroll{
+        margin: 15px;
+        width: 100%;
+    }
+    .contacts{
+        margin: 15px;
+        width: 100%;
+    }
 }
 @media only screen and (max-width: 375px) {
     .information {
@@ -39,6 +83,26 @@
     }
     .description img {
         width: 50%
+    }
+    .square{
+        width: 100%;
+    }
+    .video{
+        height: 250px;
+    }
+    .video .button_player{
+        width: 46px;
+        height: 46px;
+        margin-left: -23px;
+        margin-top: -23px;
+        padding: 17px 0;
+    }
+    .video .button_player:before {
+        font-size: 10px;
+    }
+    .name{
+        flex-wrap: wrap;
+        justify-content: center;
     }
 }
 @media only screen and (max-width: 360px){
