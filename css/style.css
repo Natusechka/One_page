@@ -1,3 +1,25 @@
+@font-face {
+    font-family: 'Now';
+    src: url('../fonts/Now-Bold.eot');
+    src: url('../fonts/Now-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Now-Bold.woff2') format('woff2'),
+    url('../fonts/Now-Bold.woff') format('woff'),
+    url('../fonts/Now-Bold.ttf') format('truetype'),
+    url('../fonts/Now-Bold.svg#Now-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Now';
+    src: url('../fonts/Now-Medium.eot');
+    src: url('../fonts/Now-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Now-Medium.woff2') format('woff2'),
+    url('../fonts/Now-Medium.woff') format('woff'),
+    url('../fonts/Now-Medium.ttf') format('truetype'),
+    url('../fonts/Now-Medium.svg#Now-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
 *{
     padding: 0;
     margin: 0;
@@ -473,5 +495,38 @@ i{
 }
 .inbox i{
     color: #8b8b8b;
+    margin-bottom: 28px;
+}
+.ui-dialog{
+    width: 100% !important;
+    max-width: 758px !important;
+}
+.log_in{
+    display: block;
+    background-color: #4967a8;
+    line-height: 62px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 24px;
+    width: 100%;
+}
+.log_in:before{
+    content: "\f39e";
+    display: inline-block;
+    font-family: "Font Awesome 5 Brands";
+    font-weight: 400;
+    color: white;
+    font-size: 24px;
+    margin-right: 16px;
+}
+.wrap{
+    max-width: 530px;
+    margin: auto;
+    text-align: center;
+}
+.button2{
+    background-color: #d1d1d1;
+    width: 100%;
+    line-height: 62px;
     margin-bottom: 28px;
 }
