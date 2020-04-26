@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97147e67-17ac-45e2-82e2-825e06f79a2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/Now-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Now-Bold.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Now-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Now-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Now-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Now-Medium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Now-Medium.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Now-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Now-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Now-Medium.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +15,20 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="one_page" />
@@ -94,12 +97,41 @@
       <workItem from="1587463559506" duration="1037000" />
       <workItem from="1587492135664" duration="4588000" />
       <workItem from="1587498052806" duration="3322000" />
-      <workItem from="1587769105674" duration="5572000" />
+      <workItem from="1587769105674" duration="8480000" />
+      <workItem from="1587933164518" duration="8956000" />
     </task>
+    <task id="LOCAL-00001" summary="start window">
+      <created>1587801406728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587801406728</updated>
+    </task>
+    <task id="LOCAL-00002" summary="start window">
+      <created>1587801556654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587801556654</updated>
+    </task>
+    <task id="LOCAL-00003" summary="start window">
+      <created>1587801586171</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587801586171</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="start window" />
+    <option name="LAST_COMMIT_MESSAGE" value="start window" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586757803905">
@@ -107,14 +139,18 @@
     </state>
     <state x="561" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1586757803905" />
     <state x="561" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1538.900@62.0.1538.900" timestamp="1586558285417" />
-    <state x="456" y="65" key="CommitChangelistDialog2" timestamp="1587801556314">
+    <state x="456" y="65" key="CommitChangelistDialog2" timestamp="1587801585862">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
-    <state x="456" y="65" key="CommitChangelistDialog2/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1587801556314" />
-    <state x="526" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1587492136177">
+    <state x="456" y="65" key="CommitChangelistDialog2/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1587801585862" />
+    <state x="423" y="203" key="Vcs.Push.Dialog.v2" timestamp="1587801596954">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="423" y="203" key="Vcs.Push.Dialog.v2/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1587801596954" />
+    <state x="526" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1587933168856">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state x="526" y="272" key="com.intellij.ide.util.TipDialog/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1587492136177" />
-    <state x="526" y="272" key="com.intellij.ide.util.TipDialog/62.0.1538.900@62.0.1538.900" timestamp="1586591060517" />
+    <state x="526" y="272" key="com.intellij.ide.util.TipDialog/62.0.1538.900@62.0.1538.900" timestamp="1587933168856" />
   </component>
 </project>

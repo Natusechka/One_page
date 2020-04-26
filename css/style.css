@@ -506,9 +506,14 @@ i{
     background-color: #4967a8;
     line-height: 62px;
     text-align: center;
+    border-radius: 3px;
     text-decoration: none;
     font-size: 24px;
+    color: white;
+    text-transform: uppercase;
     width: 100%;
+    font-family: 'Now';
+    font-weight: bold;
 }
 .log_in:before{
     content: "\f39e";
@@ -524,9 +529,89 @@ i{
     margin: auto;
     text-align: center;
 }
-.button2{
+.ui-widget button{
     background-color: #d1d1d1;
     width: 100%;
+    border-radius: 3px;
+    border: none;
+    font-size:24px;
+    color: black;
     line-height: 62px;
+    font-family: 'Now';
+    font-weight: bold;
     margin-bottom: 28px;
+    background: linear-gradient(to right, #d7d7d7, #b7b7b7);
 }
+.ui-dialog .ui-dialog-title{
+    text-align: center;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.ui-dialog .ui-dialog-titlebar{
+    padding: 0;
+}
+.ui-dialog{
+    padding:0;
+}
+.ui-widget-header {
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}
+.input2{
+    border: solid 1px #b7b7b7;
+    border-radius: 2px;
+    width: 100%;
+    max-width: 385px;
+}
+.label{
+    max-width: 560px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.ui-dialog .ui-dialog-content{
+    border-radius: 20px;
+    position: relative;
+    padding-top: 44px;
+    padding-bottom: 165px;
+    background-color: #fbfbfb;
+    overflow: auto;
+    border: none;
+}
+.ui-widget-content a{
+    border-radius: 3px;
+    color: white;
+}
+.ui-widget-content{
+    border-radius: 20px;
+}
+.ui-widget.ui-widget-content{
+    border: none;
+}
+.ui-corner-all{
+    border-bottom-left-radius: inherit;
+    border-bottom-right-radius: inherit;
+    border-top-right-radius: inherit;
+    border-top-left-radius: inherit;
+}
+.ui-dialog .ui-dialog-titlebar-close{
+    right: -50px;
+}
+label{
+    text-align: center;
+    color: #363636;
+    font-size:22px;
+    font-family: 'Now';
+    font-weight: 500;
+}
+.title2{
+    text-align: center;
+    color: #363636;
+    font-size:22px;
+    font-family: 'Now';
+    font-weight: 500;
+}
+
