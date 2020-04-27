@@ -588,6 +588,8 @@ i{
 }
 .ui-widget.ui-widget-content{
     border: none;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 .ui-dialog .ui-dialog-titlebar-close{
     right: -50px;

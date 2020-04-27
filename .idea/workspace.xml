@@ -99,7 +99,7 @@
       <workItem from="1587769105674" duration="8480000" />
       <workItem from="1587933164518" duration="9119000" />
       <workItem from="1588020329151" duration="719000" />
-      <workItem from="1588021092696" duration="1783000" />
+      <workItem from="1588021092696" duration="2494000" />
     </task>
     <task id="LOCAL-00001" summary="start window">
       <created>1587801406728</created>
@@ -136,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587942227403</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="corner">
+      <created>1588022964656</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588022964656</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +154,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="start window" />
     <MESSAGE value="not all" />
-    <option name="LAST_COMMIT_MESSAGE" value="not all" />
+    <MESSAGE value="corner" />
+    <option name="LAST_COMMIT_MESSAGE" value="corner" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586757803905">
@@ -155,16 +163,16 @@
     </state>
     <state x="561" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1586757803905" />
     <state x="561" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1538.900@62.0.1538.900" timestamp="1586558285417" />
-    <state x="456" y="65" key="CommitChangelistDialog2" timestamp="1587942227069">
+    <state x="456" y="65" key="CommitChangelistDialog2" timestamp="1588022964087">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state x="456" y="65" key="CommitChangelistDialog2/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1587801585862" />
-    <state x="456" y="65" key="CommitChangelistDialog2/62.0.1538.900@62.0.1538.900" timestamp="1587942227069" />
-    <state x="423" y="203" key="Vcs.Push.Dialog.v2" timestamp="1587942249080">
+    <state x="456" y="65" key="CommitChangelistDialog2/62.0.1538.900@62.0.1538.900" timestamp="1588022964087" />
+    <state x="423" y="203" key="Vcs.Push.Dialog.v2" timestamp="1588022977628">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state x="423" y="203" key="Vcs.Push.Dialog.v2/62.0.1538.900/1600.0.1920.1080@62.0.1538.900" timestamp="1587801596954" />
-    <state x="423" y="203" key="Vcs.Push.Dialog.v2/62.0.1538.900@62.0.1538.900" timestamp="1587942249080" />
+    <state x="423" y="203" key="Vcs.Push.Dialog.v2/62.0.1538.900@62.0.1538.900" timestamp="1588022977628" />
     <state x="526" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1588021202115">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
