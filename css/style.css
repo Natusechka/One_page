@@ -573,7 +573,8 @@ i{
     justify-content: space-between;
 }
 .ui-dialog .ui-dialog-content{
-    border-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
     position: relative;
     padding-top: 44px;
     padding-bottom: 165px;
@@ -585,17 +586,8 @@ i{
     border-radius: 3px;
     color: white;
 }
-.ui-widget-content{
-    border-radius: 20px;
-}
 .ui-widget.ui-widget-content{
     border: none;
-}
-.ui-corner-all{
-    border-bottom-left-radius: inherit;
-    border-bottom-right-radius: inherit;
-    border-top-right-radius: inherit;
-    border-top-left-radius: inherit;
 }
 .ui-dialog .ui-dialog-titlebar-close{
     right: -50px;
